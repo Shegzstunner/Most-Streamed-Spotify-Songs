@@ -5,62 +5,62 @@ KEY INSIGHTS
 
  
 
-Key Metrics and Values
+1. Key Metrics and Values
  
 
-Total Streams: 489 billion streams in 2023.
+    * Total Streams: 489 billion streams in 2023.
  
 
-Most Streamed Song: "Blinding Lights" with 4 billion streams.
+    * Most Streamed Song: "Blinding Lights" with 4 billion streams.
  
 
-Most Streamed Artist: The Weeknd with 14 billion streams.
+    * Most Streamed Artist: The Weeknd with 14 billion streams.
  
 
-Total Number of Songs: 952 out of 1904.
+    * Total Number of Songs: 952 out of 1904.
  
 
-Mode of Songs: 57.67% major, 42.33% minor.
+    * Mode of Songs: 57.67% major, 42.33% minor.
  
 
-Trends and Patterns
+2. Trends and Patterns
  
 
-Monthly Streams: Peaks in January (97 billion) and November (44 billion), with a noticeable dip in February (22 billion).
+    * Monthly Streams: Peaks in January (97 billion) and November (44 billion), with a noticeable dip in February (22 billion).
  
 
-Top 10 Streamed Songs: Both "Blinding Lights" and "Shape of You" have 4 billion streams, followed by several songs with 3 billion streams each.
+    * Top 10 Streamed Songs: Both "Blinding Lights" and "Shape of You" have 4 billion streams, followed by several songs with 3 billion streams each.
  
 
-Performance Indicators
+3. Performance Indicators
  
 
-Top Charted Song: "Seven" by Latto with 147 chart appearances.
+    * Top Charted Song: "Seven" by Latto with 147 chart appearances.
  
 
-Most Charted Songs: Include "As It Was," "Flowers," "vampire," and "I Wanna Be Yours."
+    * Most Charted Songs: Include "As It Was," "Flowers," "vampire," and "I Wanna Be Yours."
  
 
-Notable Statistics
+4. Notable Statistics
  
 
-Top 5 Most Streamed Artists: The Weeknd, Ed Sheeran, Taylor Swift (each with 14 billion streams), Harry Styles (12 billion), and Bad Bunny (10 billion).
+    * Top 5 Most Streamed Artists: The Weeknd, Ed Sheeran, Taylor Swift (each with 14 billion streams), Harry Styles (12 billion), and Bad Bunny (10 billion).
  
 
-Songs by Artist Count: Several artists have multiple songs charting, with the highest being 8 songs.
+    * Songs by Artist Count: Several artists have multiple songs charting, with the highest being 8 songs.
  
 
 RECOMMENDATIONS
 
  
 
-For Artists: Focus on releasing songs in major keys, as they are more popular.
+   * For Artists: Focus on releasing songs in major keys, as they are more popular.
  
 
-For Spotify: Consider promoting songs during months with lower streaming numbers to balance out the yearly distribution.
+   * For Spotify: Consider promoting songs during months with lower streaming numbers to balance out the yearly distribution.
  
 
-For Marketing: Leverage the popularity of top artists like The Weeknd and Ed Sheeran for collaborations or playlists.
+   * For Marketing: Leverage the popularity of top artists like The Weeknd and Ed Sheeran for collaborations or playlists.
  
 
-For Listeners: Explore the top charted songs for trending music and discover new hits.
+   * For Listeners: Explore the top charted songs for trending music and discover new hits.
